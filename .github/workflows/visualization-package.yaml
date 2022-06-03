@@ -66,4 +66,4 @@ jobs:
       - name: Build Brane Visualization
         working-directory: ./
         run: 
-          /home/runner/work/disaster-tweets-brane/disaster-tweets-brane/brane/target/release/brane build container.yml
+          /home/runner/work/disaster-tweets-brane-visualization/disaster-tweets-brane-visualization/brane/target/release/brane build container.yml
